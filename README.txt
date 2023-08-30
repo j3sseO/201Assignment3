@@ -1,0 +1,1 @@
+I have placed the .txt files that I used for my OddWords tests alongside my source code.
